@@ -17,6 +17,10 @@ O Aluraflix é um desafio proposto pela Alura com ONE (Oracle Next Education), p
   
 * **Menu**: no header, contém o menu para home e novo vídeo, ao clicar em novo vídeo você vai para a página de inserção de novo vídeo, onde deverá preencher o formulário de título, link de imagem, de vídeo e descriçao, ao clicar em guardar, a atualização se refletirá imediamente no site contendo os novos vídeos. Ao clicar em home vai para a página inicial e, também, ao clicar na logo da Aluraflix.
 
+## Acesse e compreenda melhor
+* **Vídeo com as funcionalidades completas:**
+* **link do site na Vercel**: [https://challenge-one-aluraflix.vercel.app/]
+
 ## Tecnologias utilizadas
 * <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo React"/>
 * <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="logo JavaScript">
